@@ -66,7 +66,7 @@ function generatePassword() {
     "Use Upper Case Characters = " + upperCaseBool + "\n" +
     "Use Numeric Characters = " + numericCharBool + "\n" +
     "Use Special Characters = " + specialCharBool + "\n" +
-    "Your password has been generated. See password below."
+    "Your password has been generated. Click OK to see password below."
   );
 
   return localPassword;
